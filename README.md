@@ -15,7 +15,7 @@ Informatics graduate from Universitas Klabat with hands-on experience in Full-St
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="www.linkedin.com/in/jonathantaufik">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:jonathanvito1515@gmail.com">
