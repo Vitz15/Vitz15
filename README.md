@@ -1,8 +1,8 @@
 ## 🧑‍💻 About Me
 
-I'm a software developer with a strong foundation in both **frontend and backend** development, and a growing specialization in **AI/ML integration** and **data science**. I enjoy taking projects from idea to deployment, designing the architecture, writing clean and maintainable code, and applying machine learning where it adds genuine value.
+I'm an Informatics graduate experienced in **full-stack development**, **AI**, and **data science**, passionate about building end-to-end solutions and applying AI and data-driven approaches to solve real-world problems.
 
-- 🎓 Bachelor's in Informatics — Universitas Klabat
+- 🎓 Bachelor's in Informatics - Universitas Klabat
 - 🔭 Currently exploring: **LLM integration** and **RAG (Retrieval-Augmented Generation)**
 - 💡 I believe great software is built at the intersection of clean code, solid design, and real user needs
 
