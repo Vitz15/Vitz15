@@ -1,11 +1,10 @@
 ## 🧑‍💻 About Me
 
-I'm a software developer with a strong foundation in both **frontend and backend** development, and a growing specialization in **AI/ML integration** and **data science**. I enjoy taking projects from idea to deployment — designing the architecture, writing clean and maintainable code, and applying machine learning where it adds genuine value.
+I'm a software developer with a strong foundation in both **frontend and backend** development, and a growing specialization in **AI/ML integration** and **data science**. I enjoy taking projects from idea to deployment, designing the architecture, writing clean and maintainable code, and applying machine learning where it adds genuine value.
 
 - 🎓 Bachelor's in Informatics — Universitas Klabat
-- 🔭 Currently exploring: **LLM integration**, **MLOps**, and **cloud-native architecture**
+- 🔭 Currently exploring: **LLM integration** and **RAG (Retrieval-Augmented Generation)**
 - 💡 I believe great software is built at the intersection of clean code, solid design, and real user needs
-- 📫 Reach me at: [jonathanvito1515@gmail.com](mailto:jonathanvito1515@gmail.com)
 
 ---
 
