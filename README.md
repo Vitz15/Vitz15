@@ -52,8 +52,9 @@ I'm an Informatics graduate experienced in **full-stack development**, **AI**, a
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Vitz15&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Vitz15&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+| Stats | Languages |
+|-------|-----------|
+| ![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Vitz15&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true) | ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Vitz15&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) |
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Vitz15&theme=dark&hide_border=true)
 
