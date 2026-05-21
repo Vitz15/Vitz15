@@ -1,20 +1,3 @@
-<div align="center">
-
-# Jonathan Vito Taufik
-
-**Full-Stack Developer · AI Engineer · Data Science Enthusiast**
-
-*Informatics graduate from Universitas Klabat, passionate about building scalable web applications,*
-*intelligent systems, and data-driven solutions that create real-world impact.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathantaufik)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jonathanvito1515@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/Vitz15?style=flat-square&color=236ad3)](https://github.com/Vitz15)
-
-</div>
-
----
-
 ## 🧑‍💻 About Me
 
 I'm a software developer with a strong foundation in both **frontend and backend** development, and a growing specialization in **AI/ML integration** and **data science**. I enjoy taking projects from idea to deployment — designing the architecture, writing clean and maintainable code, and applying machine learning where it adds genuine value.
