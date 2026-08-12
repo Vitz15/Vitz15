@@ -1,6 +1,6 @@
 ## 🧑‍💻 About Me
 
-I'm an Informatics graduate experienced in **full-stack development**, **AI**, and **data science**, passionate about building end-to-end solutions and applying AI and data-driven approaches to solve real-world problems.
+I'm an Informatics graduate experienced in **full-stack development** and **AI**, passionate about building end-to-end solutions and applying AI-driven approaches to solve real-world problems.
 
 - 🎓 Bachelor's in Informatics - Universitas Klabat
 - 🔭 Currently exploring: **LLM integration** and **RAG (Retrieval-Augmented Generation)**
